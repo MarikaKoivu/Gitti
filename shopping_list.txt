@@ -8,3 +8,5 @@ jauhelihaa
 kanaa
 mehua
 karkkia
+
+Terveisiä GitHubista
