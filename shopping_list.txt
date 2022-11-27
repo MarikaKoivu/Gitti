@@ -6,5 +6,11 @@ kinkkua
 jauhelihaa
 kanaa
 mehua
+<<<<<<< HEAD
 jäätelöä
 
+=======
+karkkia
+>>>>>>> 68299894f83ebbbfcffdbd851c1dda2b4265a74d
+
+Terveisiä mun koneelta
