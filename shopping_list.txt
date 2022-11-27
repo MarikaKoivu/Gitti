@@ -1,4 +1,3 @@
-Maitoa
 juustoa
 kananmunia
 perunoita
@@ -7,4 +6,5 @@ kinkkua
 jauhelihaa
 kanaa
 mehua
+jäätelöä
 
